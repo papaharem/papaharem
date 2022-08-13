@@ -4,7 +4,8 @@
 <h5> Im bad at coding... Like really bad </h5>
 
 
- -  ❤ I’m currently learning **Go, C++**
+
+-  ❤ I’m currently learning **Go, C++**
 
 -  ❤ Ask me about **What I know and what I want to be able to acomplish**
 
