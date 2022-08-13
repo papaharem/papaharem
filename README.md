@@ -1,4 +1,4 @@
-<h1 align="center">  Profesional Paster </h1>
+<h1>  Profesional Paster </h1>
 
 
 <img align = "center" src= "https://media.giphy.com/media/zVXNuCvT5OADsEGsVq/giphy.gif">
