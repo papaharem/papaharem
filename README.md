@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm papaharem</h1>
 <h3 align="center">Im bad at coding... like really bad</h3>
-<img align = "center" src= "https://media.giphy.com/media/zVXNuCvT5OADsEGsVq/giphy.gif">
+<img align = "right" src= "https://media.giphy.com/media/zVXNuCvT5OADsEGsVq/giphy.gif">
 
 - 🌱 I’m currently learning **Go, C++**
 
