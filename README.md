@@ -1,15 +1,16 @@
-# Profesional Paster
-
-
 <img align = "center" src= "https://media.giphy.com/media/zVXNuCvT5OADsEGsVq/giphy.gif">
 
-- 🌱 I’m currently learning **Go, C++**
+<h2> Profesional Paster </h2>
+<h5> Im bad at coding... Like really bad </h5>
 
-- 💬 Ask me about **What I know and what I want to be able to acomplish**
 
-- 📫 How to reach me **cutest#0018**
+ -  ❤ I’m currently learning **Go, C++**
 
-- ⚡ Fun fact **I like crossdressing, and hanging out with friends!**
+-  ❤ Ask me about **What I know and what I want to be able to acomplish**
+
+-  ❤ How to reach me **cutest#0018**
+
+-  ❤ Fun fact **I like crossdressing, and hanging out with friends!**
 
 
 
