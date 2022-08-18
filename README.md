@@ -17,7 +17,7 @@
  💜 How to reach me cutest#0018 💜
  </p>
  <p align="center">
- 💜 Fun fact I like crossdressing, and hanging out with friends! 💜
+ 💜 Fun fact I like guns, and hanging out with friends! 💜
  </p>
 
 
