@@ -14,7 +14,7 @@
  💜 Ask me about What I know and what I want to acomplish 💜
  </p>
  <p align="center">
- 💜 How to reach me cutest#0018 💜
+ 💜 How to reach me, discord: cute#0002 💜
  </p>
  <p align="center">
  💜 Fun fact I like guns, and hanging out with friends! 💜
