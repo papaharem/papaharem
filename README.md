@@ -8,7 +8,7 @@
 
 
  <p align="center">
- 💜 I’m currently learning Go, C++ 💜
+ 💜 I’m currently learning GoLang 💜
  </p>
  <p align="center">
  💜 Ask me about What I know and what I want to acomplish 💜
