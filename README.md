@@ -11,10 +11,10 @@
  🤍 I’m currently learning GoLang 🤍
  </p>
  <p align="center">
- 🤍 Ask me about what I know and what I want to acomplish 🤍
+ 🤍 Ask me about what I know and what I want to accomplish 🤍
  </p>
  <p align="center">
- 🤍 How to reach me, discord: iamreallycute 🤍
+ 🤍 How to reach me, discord: iamthecute 🤍
  </p>
  <p align="center">
  🤍 Fun fact I like guns, and hanging out with friends! 🤍
