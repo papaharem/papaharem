@@ -14,7 +14,7 @@
  🤍 Ask me about what I know and what I accomplish 🤍
  </p>
  <p align="center">
- 🤍 How to reach me, discord: iamthecute 🤍
+ 🤍 How to reach me, discord: ccutte 🤍
  </p>
  <p align="center">
  🤍 Fun fact I like guns, and hanging out with friends! 🤍
