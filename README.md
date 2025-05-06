@@ -11,7 +11,7 @@
  🤍 I’m currently learning GoLang 🤍
  </p>
  <p align="center">
- 🤍 Ask me about what I know and what I want to accomplish 🤍
+ 🤍 Ask me about what I know and what I accomplish 🤍
  </p>
  <p align="center">
  🤍 How to reach me, discord: iamthecute 🤍
